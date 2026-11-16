@@ -1,7 +1,7 @@
 // Service worker: offline support for the encrypted app. Only ciphertext and public assets are cached —
 // the decrypted app never touches the cache. Pages load network-first (short timeout) so updates arrive,
 // with the cached copy used when there is no signal.
-const VERSION = '0.1.0-mwj2h4ab';
+const VERSION = '0.1.0-mwj8j1gf';
 const CACHE = `sm-${VERSION}`;
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png', './icons/icon.svg'];
 
