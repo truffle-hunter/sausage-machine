@@ -6,7 +6,7 @@
     </linearGradient>
   </defs>
   <rect width="512" height="512" rx="114" fill="url(#g)"/>
-  <!-- one continuous copper-pipe bend = a link of sausage -->
+  <!-- the mark: one continuous copper-pipe bend -->
   <path d="M146 352c0-74 46-100 110-100s110-26 110-100" fill="none" stroke="#FAF6F1" stroke-width="70" stroke-linecap="round"/>
   <circle cx="146" cy="352" r="16" fill="#9C4E26"/>
   <circle cx="366" cy="152" r="16" fill="#9C4E26"/>

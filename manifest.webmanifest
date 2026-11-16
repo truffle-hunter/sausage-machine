@@ -1,7 +1,7 @@
 {
-  "name": "Sausage Machine",
+  "name": "Stampmill",
   "short_name": "Invoices",
-  "description": "Customer + receipts + labour in, a professional invoice out.",
+  "description": "Receipts and hours in. Invoice out.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
