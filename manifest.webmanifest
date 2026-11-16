@@ -1,0 +1,17 @@
+{
+  "name": "Sausage Machine",
+  "short_name": "Invoices",
+  "description": "Customer + receipts + labour in, a professional invoice out.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF6F1",
+  "theme_color": "#A4552B",
+  "lang": "en-IE",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
